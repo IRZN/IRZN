@@ -1,16 +1,14 @@
-## Hi there 👋
+# Oi, eu sou o Iury 👋
 
-<!--
-**IRZN/IRZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na PUC Minas e desenvolvedor full-stack.
+Estou procurando meu primeiro estágio em tecnologia.
 
-Here are some ideas to get you started:
+🌐 **Portfólio:** [https://portifolio-iury-emanuel.vercel.app/]
+💼 **LinkedIn:** [Iury Emanuel](https://www.linkedin.com/in/iury-emanuel-127b7b2b5)
+📫 **E-mail:** iuryemanuel220@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+Java · Python · HTML · CSS · JavaScript · Git · GitHub · Figma · Supabase
+
+### Projeto em destaque
+**[Gerenciamento Financeiro](https://financeirogerenciamento.vercel.app/login.html)**: sistema web de controle de gastos com gastos parcelados, gastos mensais recorrentes e um painel por categoria.
